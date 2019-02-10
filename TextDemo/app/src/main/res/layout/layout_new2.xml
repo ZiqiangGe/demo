@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvFold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:lineSpacingExtra="5dp"
+        android:text="12321312312fsdfdsafasdfsdfsdfsdfsdfsadfasdsadfasdfasdfsadsfsadfsadf"
+        android:textColor="#666666"
+        android:textSize="14sp" />
+
+    <ImageView
+        android:id="@+id/ivFold"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:padding="5dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignBottom="@id/tvFold"
+        android:src="@drawable/ic_launcher_background"
+        android:visibility="visible" />
+
+</RelativeLayout>
