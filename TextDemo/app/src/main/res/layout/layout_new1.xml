@@ -24,7 +24,7 @@
         android:paddingRight="2dp"
         android:layout_alignParentRight="true"
         android:layout_alignBottom="@id/tvFold"
-        android:src="@drawable/ic_launcher_background"
+        android:src="@drawable/snip20190213"
         android:visibility="visible" />
 
 </RelativeLayout>

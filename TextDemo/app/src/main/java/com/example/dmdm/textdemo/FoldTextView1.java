@@ -227,8 +227,7 @@ public class FoldTextView1 extends RelativeLayout
     {
         mFoldTextViewHolder.tvFold.setMaxLines(Integer.MAX_VALUE);
         mFoldTextViewHolder.tvFold.setText(mString);
-        mFoldTextViewHolder.tvFold.measure(0,0);
-
+        mFoldTextViewHolder.ivFold.setScaleY(-1);
     }
 
 
@@ -236,7 +235,7 @@ public class FoldTextView1 extends RelativeLayout
     {
         mFoldTextViewHolder.tvFold.setMaxLines(defaultLineCounts);
         mFoldTextViewHolder.tvFold.setText(mLitterString);
-        mFoldTextViewHolder.tvFold.measure(0,0);
+        mFoldTextViewHolder.ivFold.setScaleY(1);
     }
 
     static class FoldTextViewHolder
