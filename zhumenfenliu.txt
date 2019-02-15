@@ -1,0 +1,85 @@
+{
+	"data": {
+		"lastModify": null,
+		"expires": 1800,
+		"bookInfo": [{
+			"bookId": "wenquxingtingshuzm0000000000000000000000000000000000000000000001",
+			"spId": 1,
+			"spBookId": [{
+				"spId": 1,
+				"spBookID": "spwenquxingtingshuzm00000000000000000000000000000000000000000001",
+				"playMode": 1,
+				"minVersion": "1.0",
+				"emui": "Emui1.0",
+				"pakageName": "美剧包1",
+				"playUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"appUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"cpId": "800000001",
+				"settlementType": 2,
+				"spItemId": "2",
+				"spItemType": "ALL",
+				"spItemDuration": "M"
+			}],
+			"bookName": "朱门风流",
+			"bookType": "2",
+			"ratingId": "1",
+			"summary": "盛世朱门嫡庶相倾，权谋之争尔虞我诈...",
+			"picture": {
+				"verticalPoster": [{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/6124023774285300-300043771201812181348103070001000000.png"],
+					"themeType": 1
+				}]
+			},
+			"score": "9",
+			"scoreType": "1",
+			"albumId": "美剧",
+			"sum": 32,
+			"beOverFlag": 0,
+			"bookDes": "朱门酒肉臭，路有冻死骨。 靖难的动乱已经过去，郑和的舰队已经在海上航行，家族中已经有高官显贵……难道生逢盛世他能做的只是混吃等死？凭着敏锐的观察，机智的头脑，他虽在家族中站稳了脚跟，但能否在大明王朝中指点江山呢？",
+			"categoryType": "3",
+			"theme": ["themes"],
+			"updateFrequency": "每周",
+			"applyType": 1,
+			"playNum": 1000000,
+			"productionCountry": "中国",
+			"releaseDate": "2018",
+			"stationTag": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/6124023774285300-300043771201812181348103070001000000.png",
+			"template": "1005",
+			"artist": [{
+				"artistId": "fandeng-male-num1",
+				"artistName": "亘古皓月",
+				"picture": {
+					"verticalPoster": [{
+						"size": "S",
+						"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/8956200373903847-300043771201812181348255090001000000.png"],
+						"themeType": 1
+					}]
+				},
+				"role": 1002,
+				"artistDes": "亘古皓月，北京双鱼座男神，用声音带你走进书中，微信可搜，皓月书吧全拼。"
+			}],
+			"payType": 2,
+			"bookPackage": {
+				"packageId": "002",
+				"packageName": "美剧包",
+				"spId": "1",
+				"spPackageId": "900000001:P000000001",
+				"packageType": 1,
+				"subPackageType": 1
+			},
+			"settlementExtra": "Extrafield",
+			"ratingAge": 10,
+			"advert": [{}],
+			"columnList": [{
+				"columnId": "column1000000001",
+				"columnName": "美剧栏目",
+				"columnDes": "美剧栏目描述",
+				"columnType": 1
+			}],
+			"sortScore": 99.8
+		}]
+	},
+	"retCode": 0,
+	"retMsg": "Success to get BookInfos"
+}

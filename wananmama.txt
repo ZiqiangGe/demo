@@ -1,0 +1,85 @@
+{
+	"data": {
+		"lastModify": null,
+		"expires": 1800,
+		"bookInfo": [{
+			"bookId": "wenquxingtingshuwa0000000000000000000000000000000000000000000010",
+			"spId": 1,
+			"spBookId": [{
+				"spId": 1,
+				"spBookID": "spwenquxingtingshuwa00000000000000000000000000000000000000000010",
+				"playMode": 1,
+				"minVersion": "1.0",
+				"emui": "Emui1.0",
+				"pakageName": "美剧包1",
+				"playUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"appUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"cpId": "800000001",
+				"settlementType": 2,
+				"spItemId": "2",
+				"spItemType": "ALL",
+				"spItemDuration": "M"
+			}],
+			"bookName": "晚安妈妈睡前故事 ",
+			"bookType": "2",
+			"ratingId": "1",
+			"summary": "陪伴是最长情的告白，愿每个夜晚都有甜蜜的收获！【微信公众号搜索:晚安妈妈】...",
+			"picture": {
+				"verticalPoster": [{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/1748363619221454-300043771201901101433544950000000000.jpg"],
+					"themeType": 1
+				}]
+			},
+			"score": "7",
+			"scoreType": "1",
+			"albumId": "美剧",
+			"sum": 1000,
+			"beOverFlag": 0,
+			"bookDes": "晚安妈妈一级播音员、童话作家、在喜马拉雅FM开设“晚安妈妈”电台，拥有68万以上活跃忠实小粉丝。《晚安妈妈睡前故事》专辑每晚20:00更新一个故事，已经超过6.5亿次收听，原创故事《小老鼠丢丢》深受欢迎。已经出版发行的绘本故事有《小鸡布迪的船长梦》、《老鼠贝奇帮帮忙》、《暴风雨一点儿也不可怕》、《我才是躲猫猫高手》、《小鸡学游泳》、《猴小弟上学》、《可怕的梦》、《守家小兔》。酷爱亲自旅行和摄影，带宝宝去过毛里求斯、马尔代夫、斯里兰卡、印度尼西亚、新加坡。泰国、日本、韩国、香港、台湾、澳门等地",
+			"categoryType": "3",
+			"theme": ["themes"],
+			"updateFrequency": "每周",
+			"applyType": 1,
+			"playNum": 610000,
+			"productionCountry": "中国",
+			"releaseDate": "2018",
+			"stationTag": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/1748363619221454-300043771201901101433544950000000000.jpg",
+			"template": "1005",
+			"artist": [{
+				"artistId": "fandeng-male-num10",
+				"artistName": "晚安妈妈",
+				"picture": {
+					"verticalPoster": [{
+						"size": "S",
+						"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2677965719639272-300043771201901101433447190000000000.jpg"],
+						"themeType": 1
+					}]
+				},
+				"role": 1002,
+				"artistDes": "哄睡神器，萌宝辣妈最爱的童话专家"
+			}],
+			"payType": 2,
+			"bookPackage": {
+				"packageId": "002",
+				"packageName": "美剧包",
+				"spId": "1",
+				"spPackageId": "900000001:P000000001",
+				"packageType": 1,
+				"subPackageType": 1
+			},
+			"settlementExtra": "Extrafield",
+			"ratingAge": 10,
+			"advert": [{}],
+			"columnList": [{
+				"columnId": "column1000000001",
+				"columnName": "美剧栏目",
+				"columnDes": "美剧栏目描述",
+				"columnType": 1
+			}],
+			"sortScore": 99.8
+		}]
+	},
+	"retCode": 0,
+	"retMsg": "Success to get BookInfos"
+}

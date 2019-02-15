@@ -1,0 +1,85 @@
+{
+	"data": {
+		"lastModify": null,
+		"expires": 1800,
+		"bookInfo": [{
+			"bookId": "wenquxingtingshuqk0000000000000000000000000000000000000000000013",
+			"spId": 1,
+			"spBookId": [{
+				"spId": 1,
+				"spBookID": "spwenquxingtingshuqk00000000000000000000000000000000000000000013",
+				"playMode": 1,
+				"minVersion": "1.0",
+				"emui": "Emui1.0",
+				"pakageName": "美剧包1",
+				"playUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"appUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"cpId": "800000001",
+				"settlementType": 2,
+				"spItemId": "2",
+				"spItemType": "ALL",
+				"spItemDuration": "M"
+			}],
+			"bookName": "区块链杂谈",
+			"bookType": "3",
+			"ratingId": "1",
+			"summary": "密码学博士为您深入浅出解读区块链技术...",
+			"picture": {
+				"verticalPoster": [{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/9303032156965258-300043771201901101433343410000000000.png"],
+					"themeType": 1
+				}]
+			},
+			"score": "9",
+			"scoreType": "1",
+			"albumId": "美剧",
+			"sum": 15,
+			"beOverFlag": 0,
+			"bookDes": "有人问我，如何学习区块链？答案:从听区块链杂谈开始，如果每一期都听完，您已经入门区块链了。密码博士为您做有价值的区块链技术布道。",
+			"categoryType": "3",
+			"theme": ["themes"],
+			"updateFrequency": "每周",
+			"applyType": 1,
+			"playNum": 70000,
+			"productionCountry": "中国",
+			"releaseDate": "2018",
+			"stationTag": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/9303032156965258-300043771201901101433343410000000000.png",
+			"template": "1005",
+			"artist": [{
+				"artistId": "fandeng-male-num9",
+				"artistName": "致远博士",
+				"picture": {
+					"verticalPoster": [{
+						"size": "S",
+						"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/8228134500457129-300043771201901101433146670000000000.jpg"],
+						"themeType": 1
+					}]
+				},
+				"role": 1002,
+				"artistDes": "密码学博士，教授。研究密码学与区块链。英国Royal Holloway,University of london访问学者。亚洲区块链学会荣誉学技术顾问。农博密炼网络科技有限公司的创始人。主要研究方向:同态加密，区块链，格密码"
+			}],
+			"payType": 2,
+			"bookPackage": {
+				"packageId": "003",
+				"packageName": "美剧包",
+				"spId": "1",
+				"spPackageId": "900000001:P000000001",
+				"packageType": 1,
+				"subPackageType": 1
+			},
+			"settlementExtra": "Extrafield",
+			"ratingAge": 10,
+			"advert": [{}],
+			"columnList": [{
+				"columnId": "column1000000001",
+				"columnName": "美剧栏目",
+				"columnDes": "美剧栏目描述",
+				"columnType": 1
+			}],
+			"sortScore": 99.8
+		}]
+	},
+	"retCode": 0,
+	"retMsg": "Success to get BookInfos"
+}
