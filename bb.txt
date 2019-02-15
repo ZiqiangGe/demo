@@ -1,0 +1,102 @@
+{
+	"data": {
+		"lastModify": null,
+		"expires": 1800,
+		"bookInfo": [{
+			"bookId": "wenquxingtingshumg0000000000000000000000000000000000000000000002",
+			"spId": 1,
+			"spBookId": [{
+				"spId": 1,
+				"spBookID": "spwenquxingtingshumg00000000000000000000000000000000000000000002",
+				"playMode": 1,
+				"minVersion": "1.0",
+				"emui": "Emui1.0",
+				"pakageName": "美剧包1",
+				"playUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"appUrl": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2479722102385219-300043771201812031520414450001000000.mp3",
+				"cpId": "800000001",
+				"settlementType": 2,
+				"spItemId": "2",
+				"spItemType": "ALL",
+				"spItemDuration": "M"
+			}],
+			"bookName": "媚公卿",
+			"bookType": "1",
+			"ratingId": "1",
+			"summary": "绝色男子更胜绝美女子的时代...",
+			"picture": {
+				"verticalPoster": [{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/3214187825084276-300043771201812211524413990001000000.jpg"],
+					"themeType": 1
+				}],
+				"still": [{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/2677965719639272-300043771201901101433447190000000000.jpg"],
+					"themeType": 1
+				},{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/4126265774360388-300043771201812211523228760001000000.jpg"],
+					"themeType": 1
+				},{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/3214187825084276-300043771201812211524413990001000000.jpg"],
+					"themeType": 1
+				},{
+					"size": "S",
+					"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/1748363619221454-300043771201901101433544950000000000.jpg"],
+					"themeType": 1
+				}]
+			},
+			"score": "7",
+			"scoreType": "1",
+			"albumId": "美剧",
+			"sum": 11,
+			"beOverFlag": 0,
+			"bookDes": "前世，她用尽心机， 她执意要嫁给他，最终绝望自焚而死。重生后，在这个讲究门第风骨的魏晋时代，她起于卑暗，胸怀机谋，利用先知，步步为营，在一次次的惊与险中脱颖而出。在爱情与自尊中，且看她如何与这贵比帝王的腹黑男子斗智斗勇，如何让曾经对她弃之如敝屣的男人痴迷执著，如何摆脱成为家族讨好上位者的工具，赢得别样人生！！！。",
+			"categoryType": "11",
+			"theme": ["themes"],
+			"updateFrequency": "每周",
+			"applyType": 1,
+			"playNum": 320000,
+			"productionCountry": "中国",
+			"releaseDate": "2018",
+			"stationTag": "https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/3214187825084276-300043771201812211524413990001000000.jpg",
+			"template": "1005",
+			"artist": [{
+				"artistId": "fandeng-male-num2",
+				"artistName": "风冷",
+				"picture": {
+					"verticalPoster": [{
+						"size": "S",
+						"url": ["https://hwread-sound-test-cn.obs.cn-north-1.myhwclouds.com/4126265774360388-300043771201812211523228760001000000.jpg"],
+						"themeType": 1
+					}]
+				},
+				"role": 1001,
+				"artistDes": "莫守陈规_冷风，新浪微博：有声风冷，求关注风冷的温馨小窝(QQ群)：100542042"
+			}],
+			"payType": 2,
+			"bookPackage": {
+				"packageId": "001",
+				"packageName": "美剧包",
+				"spId": "1",
+				"spPackageId": "900000001:P000000001",
+				"packageType": 1,
+				"subPackageType": 1
+			},
+			"settlementExtra": "Extrafield",
+			"ratingAge": 10,
+			"advert": [{}],
+			"columnList": [{
+				"columnId": "column1000000001",
+				"columnName": "美剧栏目",
+				"columnDes": "美剧栏目描述",
+				"columnType": 1
+			}],
+			"sortScore": 99.8
+		}]
+	},
+	"retCode": 0,
+	"retMsg": "Success to get BookInfos"
+}
