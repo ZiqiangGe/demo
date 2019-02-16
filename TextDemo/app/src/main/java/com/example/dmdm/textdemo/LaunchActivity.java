@@ -1,14 +1,22 @@
 package com.example.dmdm.textdemo;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
+
+import com.bumptech.glide.Glide;
+import com.bumptech.glide.load.resource.drawable.GlideDrawable;
+import com.bumptech.glide.request.animation.GlideAnimation;
+import com.bumptech.glide.request.target.SimpleTarget;
 
 public class LaunchActivity extends AppCompatActivity implements View.OnClickListener
 {
 
     FoldTextView1 foldTextView1;
+
+    ImageView  mImageView;
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -31,6 +39,19 @@ public class LaunchActivity extends AppCompatActivity implements View.OnClickLis
         foldTextView1 = (FoldTextView1)findViewById(R.id.folder_text);
         foldTextView1.setText(getString1());
 
+
+        String url = "https://raw.githubusercontent.com/ZiqiangGe/demo/master/pic/01.png";
+        mImageView = findViewById(R.id.image);
+        Glide.with(this)
+                .load(url)
+                .placeholder(R.mipmap.ic_launcher)
+                .error(R.mipmap.ic_launcher)
+                .into(new SimpleTarget<GlideDrawable>() {
+                    @Override
+                    public void onResourceReady(GlideDrawable resource, GlideAnimation<? super GlideDrawable> glideAnimation) {
+                        mImageView.setImageDrawable(resource);
+                    }
+                });
     }
 
 
