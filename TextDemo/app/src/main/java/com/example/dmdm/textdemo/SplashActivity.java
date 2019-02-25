@@ -1,16 +1,14 @@
 package com.example.dmdm.textdemo;
 
-import android.content.Context;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
-import android.graphics.drawable.Drawable;
 import android.os.Build;
+import android.os.Bundle;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
+import android.text.TextUtils;
 import android.util.DisplayMetrics;
-import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
@@ -144,6 +142,8 @@ public class SplashActivity extends AppCompatActivity {
 
             }
         });
+
+        ImageView
     }
 
     public static class ShowImagesAdapter extends PagerAdapter {
@@ -154,6 +154,8 @@ public class SplashActivity extends AppCompatActivity {
         public ShowImagesAdapter(List<View> views, List<String> titles) {
             this.views = views;
             this.titles = titles;
+
+            TextUtils.isEmpty()
         }
 
         @Override
